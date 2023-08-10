@@ -40,16 +40,16 @@
 
         function calcularTotalPagar() {
             //  window.location.href = "tarjeta.html";
-			window.open("Agradecimiento.html");
+			window.open("https://earthyleaves.github.io/Agradecimiento/");
         }
 
 		function calcularTotalPagartarjeta() {
             //  window.location.href = "tarjeta.html";
-			window.open("file:///C:/Users/salis/OneDrive/Documentos/Earthy%20Leaves/Tarjeta%20de%20credito/index.html");
+			window.open("https://earthyleaves.github.io/Pago/");
         }
 
 		function Inicio(){
-			window.open("file:///C:/Users/salis/OneDrive/Documentos/Earthy%20Leaves/Earthy%20Leaves.html");
+			window.open("https://earthyleaves.github.io/Inicio.github.io/");
 		}
         // function regresaratras() {
         //    window.location.href = "file:///C:/Users/salis/OneDrive/Documentos/Earthy%20Leaves/Tienda.html";
