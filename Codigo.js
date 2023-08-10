@@ -49,7 +49,7 @@
         }
 
 		function Inicio(){
-			window.open("https://earthyleaves.github.io/Inicio.github.io/");
+			window.open("file:///C:/Users/salis/OneDrive/Documentos/Earthy%20Leaves/Earthy%20Leaves.html");
 		}
         // function regresaratras() {
         //    window.location.href = "file:///C:/Users/salis/OneDrive/Documentos/Earthy%20Leaves/Tienda.html";
